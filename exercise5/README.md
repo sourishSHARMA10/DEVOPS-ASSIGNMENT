@@ -53,7 +53,7 @@ Hello, this is a secure Flask application running inside a Docker container!
 ```
 
 ![Docker image build and successful Flask
-response](Screenshot%202026-10-19%20162426(1).png)
+response](ex5.1.png)
 
 ## 3. AppArmor Profile and Restriction Tests
 
@@ -71,7 +71,7 @@ Reading `/etc/passwd` is denied, and attempting to run `/usr/bin/which`
 is denied. These results demonstrate the tested restrictions.
 
 ![AppArmor profile and restricted action
-tests](Screenshot%202026-10-19%20165011(1).png)
+tests](ex5.2.png)
 
 ## 4. Verification Commands
 
