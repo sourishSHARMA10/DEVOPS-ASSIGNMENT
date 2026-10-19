@@ -4,7 +4,7 @@
 
 A Freestyle project named `HelloWorld` was created in Jenkins and connected to the GitHub repository `DEVOPS-ASSIGNMENT`. The job retrieves the repository's `main` branch and runs the `hello-world.sh` script from the `exercise8` directory.
 
-[Jenkins HelloWorld job successful](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/blob/main/exercise8/jenkins-job-success.png) ([image](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/raw/main/exercise8/jenkins-job-success.png))
+[Jenkins HelloWorld job successful](jenkins-job-success.png)
 
 ---
 
@@ -12,7 +12,7 @@ A Freestyle project named `HelloWorld` was created in Jenkins and connected to t
 
 Build **#3** completed successfully. Jenkins checked out the latest code from GitHub, executed `sh exercise8/hello-world.sh`, and printed `Hello, Jenkins!` in the console.
 
-[Jenkins HelloWorld successful console output](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/blob/main/exercise8/jenkins-console-output.png) ([image](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/raw/main/exercise8/jenkins-console-output.png))
+[Jenkins HelloWorld successful console output](jenkins-console-output.png)
 
 ---
 
