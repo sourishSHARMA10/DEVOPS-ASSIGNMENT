@@ -12,7 +12,7 @@ The Flask application was successfully containerized, and the `flask-api` Docker
 
 The Flask container successfully resolved and communicated with the MySQL and Redis containers through the `my-bridge-net` Docker bridge network.
 
-![Container Networking](container-networking.png)
+![Container Networking](container-working.png)
 
 ---
 
@@ -20,7 +20,7 @@ The Flask container successfully resolved and communicated with the MySQL and Re
 
 The MySQL container was successfully initialized with the `devopsdb` database.
 
-![MySQL Verification](mysql-verification.png)
+![MySQL Verification](mysql-verfication.png)
 
 ---
 
