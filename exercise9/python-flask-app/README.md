@@ -14,14 +14,13 @@ Hello, Jenkins Multi-Stage Pipeline!
 
 The Jenkins job `Python-MultiStage-Pipeline` completed successfully. The build page shows a successful result for build **#4**.
 
-[Jenkins build #4 successful](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/blob/main/exercise9/jenkins-build-success.png) ([image](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/raw/main/exercise9/jenkins-build-success.png))
+![Jenkins build #4 successful](jenkins-build-success.png) 
 
 ### 2. Pipeline Console Output
 
 The console output confirms that the test ran successfully, printed the expected response, and the pipeline finished with `SUCCESS`.
 
-[Pipeline console output showing successful test and completion](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/blob/main/exercise9/jenkins-console-success.png) ([image](https://github.com/ranveerverma18/DEVOPS-ASSIGNMENT/raw/main/exercise9/jenkins-console-success.png))
-
+![Pipeline console output showing successful test and completion](jenkins-console-success.png) 
 ## Result
 
 **Status: SUCCESS**
