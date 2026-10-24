@@ -6,16 +6,16 @@ Practical DevOps exercises covering containerization, orchestration, security, m
 
 | No. | Topic | What it covers |
 |:---:|---|---|
-| 01 | [Kubernetes Getting Started](Exercises/Exercise-1-Kubernetes-Getting-Started/) | Creating and exposing a first Nginx Pod with Minikube |
-| 02 | [Minikube, kubectl and Flask](Exercises/Exercise-2-Minikube-Kubectl-Flask/) | Deploying a Flask application with kubectl and Kubernetes YAML |
-| 03 | [Scaling a Flask Application](Exercises/Exercise-3-Minikube-Scaling-Flask-ReplicaSets/) | Running and scaling application replicas with ReplicaSets |
-| 04 | [Docker Networking](Exercises/Exercise-4-Docker-Networking/) | Connecting Flask, MySQL, and Redis containers on a bridge network |
-| 05 | [Docker Security with AppArmor](Exercises/Exercise-5-Docker-Security-AppArmor/) | Applying AppArmor controls to restrict container capabilities |
-| 06 | [Grafana Real-time Monitoring](Exercises/Exercise-6-Grafana-Realtime-Monitoring/) | Monitoring delivery metrics with Prometheus, Grafana, and Jenkins |
-| 07 | [Jenkins CI Automation](Exercises/Exercise-7-Jenkins-CI-Automation/) | Building a basic continuous integration workflow with Jenkins |
-| 08 | [Jenkins Hello World Job](Exercises/Exercise-8-Jenkins-Hello-World/) | Creating and running a Jenkins Freestyle project |
-| 09 | [Jenkins Multi-stage Pipeline](Exercises/Exercise-9-Jenkins-Multi-Stage-Pipeline/) | Building, testing, deploying, and running a Python application through Jenkins |
-| 10 | [Multi-Node Kubernetes Cluster with Multiple Applications and Replicasets](Exercises/Exercise-10-Jenkins-Multi-Stage-Pipeline/) | Building, testing, deploying, and running a Python application through Jenkins |
+| 01 | [Kubernetes Getting Started](exercise1) | Creating and exposing a first Nginx Pod with Minikube |
+| 02 | [Minikube, kubectl and Flask](exercise2) | Deploying a Flask application with kubectl and Kubernetes YAML |
+| 03 | [Scaling a Flask Application](exercise3) | Running and scaling application replicas with ReplicaSets |
+| 04 | [Docker Networking](exercise4) | Connecting Flask, MySQL, and Redis containers on a bridge network |
+| 05 | [Docker Security with AppArmor](exercise5) | Applying AppArmor controls to restrict container capabilities |
+| 06 | [Grafana Real-time Monitoring](exercise6) | Monitoring delivery metrics with Prometheus, Grafana, and Jenkins |
+| 07 | [Jenkins CI Automation](exercise7) | Building a basic continuous integration workflow with Jenkins |
+| 08 | [Jenkins Hello World Job](exercise8) | Creating and running a Jenkins Freestyle project |
+| 09 | [Jenkins Multi-stage Pipeline](exercise9) | Building, testing, deploying, and running a Python application through Jenkins |
+| 10 | [Multi-Node Kubernetes Cluster with Multiple Applications and Replicasets](exercise10) | Building, testing, deploying, and running a Python application through Jenkins |
 
 ## Technology Focus
 
