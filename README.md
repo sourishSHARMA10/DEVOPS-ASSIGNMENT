@@ -15,6 +15,7 @@ Practical DevOps exercises covering containerization, orchestration, security, m
 | 07 | [Jenkins CI Automation](Exercises/Exercise-7-Jenkins-CI-Automation/) | Building a basic continuous integration workflow with Jenkins |
 | 08 | [Jenkins Hello World Job](Exercises/Exercise-8-Jenkins-Hello-World/) | Creating and running a Jenkins Freestyle project |
 | 09 | [Jenkins Multi-stage Pipeline](Exercises/Exercise-9-Jenkins-Multi-Stage-Pipeline/) | Building, testing, deploying, and running a Python application through Jenkins |
+| 10 | [Multi-Node Kubernetes Cluster with Multiple Applications and Replicasets](Exercises/Exercise-10-Jenkins-Multi-Stage-Pipeline/) | Building, testing, deploying, and running a Python application through Jenkins |
 
 ## Technology Focus
 
@@ -56,4 +57,4 @@ The exact prerequisites vary by exercise. Docker, Minikube, kubectl, Jenkins, an
 
 ## Author
 
-Maintained by **Rohan Kumar** as a practical DevOps learning portfolio.
+Maintained by **Sourish Sharma** as a practical DevOps learning portfolio.
